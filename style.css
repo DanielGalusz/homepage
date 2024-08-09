@@ -26,6 +26,13 @@ nav a {
     font-weight: bold;
 }
 
+.hero-image {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    margin-top: 0;
+}
+
 .container {
     padding: 20px;
     max-width: 1200px;
